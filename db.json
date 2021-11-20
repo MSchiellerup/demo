@@ -1,6 +1,6 @@
 {
- user: {
-   name: "Mads Schiellerup",
-   prefix: "MS"
+ "user": {
+   "name": "Mads Schiellerup",
+   "prefix": "MS"
  }
 }
