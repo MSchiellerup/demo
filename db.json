@@ -1,7 +1,88 @@
 {
- "user": {
-  "id": 1,
-   "name": "Mads Schiellerup",
-   "prefix": "MS"
- }
+ "products": [
+   {
+     "id": "UX9-SB09-2012",
+     "image": "https://hfc.azureedge.net/media/6928/p1610232.jpg?mode=crop&quality=85&width=250&format=jpg&scale=both&mode=pad",
+     "category": "Bike",
+     "brand": "Avenue",
+     "model": "CityDriver 2.0",
+     "type": "Bycykel",
+     "serial_number": "AX569S6Y",
+     "purchase_date": "24-11-2020",
+     "purchase_price": 7599,
+     "additional": [
+      {
+        "type": "Stel",
+        "date": "08-01-2021",
+        "brand": "Avenue",
+        "model": "Light Armor 2",
+        "price": 6345,
+        "receipt": ""
+      }
+     ],
+     "repairs": [],
+     "purchase_chain":[
+      {
+        "owner": "Dig",
+        "date": "22-03-021"
+      },
+      {
+       "owner": "Morten S.",
+       "date": "11-01-2021"
+      }
+     ],
+     "receipt": "",
+     "proof": ""
+   },
+   {
+     "id": "UX9-XL02-19X2",
+     "image": "https://hfc.azureedge.net/media/6928/p1610232.jpg?mode=crop&quality=85&width=250&format=jpg&scale=both&mode=pad",
+     "category": "Bike",
+     "brand": "Bianchi",
+     "model": "Sprint Utegra",
+     "type": "Racercykel",
+     "serial_number": "KD0298V1",
+     "purchase_date": "14-03-2017",
+     "purchase_price": 26599,
+     "additional": [
+       {
+         "type": "Stel",
+         "date": "08-01-2021",
+         "brand": "Avenue",
+         "model": "Light Armor 2",
+         "price": 6345,
+         "receipt": ""
+       },
+       {
+         "type": "Lygter",
+         "date": "08-01-2021",
+         "brand": "LightBrick",
+         "model": "LightLED V2",
+         "price": 245,
+         "receipt": ""
+       }
+     ],
+     "repairs": [],
+     "purchase_chain":[
+      {
+        "owner": "Dig",
+        "date": "22-03-021"
+      },
+      {
+       "owner": "Morten S.",
+       "date": "11-01-2021"
+      },
+      {
+        "owner": "Rasmus E.",
+        "date": "12-10-2020"
+       },
+       {
+        "owner": "Anne B.",
+        "date": "12-04-2020"
+       }
+     ],
+     "receipt": "",
+     "proof": ""
+   }
+ ]
 }
