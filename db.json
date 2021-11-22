@@ -3,7 +3,7 @@
    {
      "id": "UX9-SB09-2012",
      "image": "https://hfc.azureedge.net/media/6928/p1610232.jpg?mode=crop&quality=85&width=250&format=jpg&scale=both&mode=pad",
-     "category": "Bike",
+     "category": "Cykel",
      "brand": "Avenue",
      "model": "CityDriver 2.0",
      "type": "Bycykel",
@@ -36,8 +36,8 @@
    },
    {
      "id": "UX9-XL02-19X2",
-     "image": "https://hfc.azureedge.net/media/6928/p1610232.jpg?mode=crop&quality=85&width=250&format=jpg&scale=both&mode=pad",
-     "category": "Bike",
+     "image": "https://electrek.co/wp-content/uploads/sites/3/2021/09/ares-bike-1.jpg?quality=82&strip=all&w=1000",
+     "category": "Cykel",
      "brand": "Bianchi",
      "model": "Sprint Utegra",
      "type": "Racercykel",
@@ -66,7 +66,7 @@
      "purchase_chain":[
       {
         "owner": "Dig",
-        "date": "22-03-021"
+        "date": "22-03-2021"
       },
       {
        "owner": "Morten S.",
@@ -75,6 +75,39 @@
       {
         "owner": "Rasmus E.",
         "date": "12-10-2020"
+       },
+       {
+        "owner": "Anne B.",
+        "date": "12-04-2020"
+       }
+     ],
+     "receipt": "",
+     "proof": ""
+   },
+   {
+     "id": "XS2-VSD2-X231",
+     "image": "https://photos5.appleinsider.com/gallery/38808-74050-iPhone-12-Pro-Max-Back-xl.jpg",
+     "category": "Elektronik",
+     "brand": "Apple",
+     "model": "iPhone 12 Pro Max",
+     "type": "Smartphone",
+     "serial_number": "C02LKJ87VK21",
+     "purchase_date": "11-07-2019",
+     "purchase_price": 8699,
+     "additional": [],
+     "repairs": [],
+     "purchase_chain":[
+      {
+        "owner": "Dig",
+        "date": "22-03-2021"
+      },
+      {
+       "owner": "Christian S.",
+       "date": "11-04-2021"
+      },
+      {
+        "owner": "Lotte E.",
+        "date": "17-03-2020"
        },
        {
         "owner": "Anne B.",
